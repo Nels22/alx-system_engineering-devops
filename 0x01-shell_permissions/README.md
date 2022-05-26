@@ -30,5 +30,9 @@
 
 101-symbolic_link_permissions : This Script changes owner and group owner of _hello to vincent and staff.
 
+102-if_only : Script changes owner of file hello to betty if it is owned by user guillaume
+
+
+
 
 
