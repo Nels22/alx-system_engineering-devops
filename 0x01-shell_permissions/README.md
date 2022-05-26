@@ -20,6 +20,9 @@
 
 10-mirror_permissions : Script that sets the mode of the file hello the same as olleh's model.
 
+11-directories_permissions: Script that adds execute permission to all subdirectories of all users but doesn't change regular files.
+
+
 
 
 
