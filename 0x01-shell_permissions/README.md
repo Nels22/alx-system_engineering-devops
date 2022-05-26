@@ -28,7 +28,7 @@
 
 100-change_ownerand_group - This script changesthe owner to vincent and group owner to staff for all files and directories in working directory.
 
-
+101-symbolic_link_permissions : This Script changes owner and group owner of _hello to vincent and staff.
 
 
 
