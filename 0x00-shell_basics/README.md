@@ -6,3 +6,5 @@
 
 3-listfiles3 : Dispys list of current directory contents in long format
 
+6-firstdirectory :Creates my first directory
+
