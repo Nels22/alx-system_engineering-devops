@@ -26,6 +26,8 @@
 
 13-change_group : This script changes the group owner of the file hello to school
 
+100-change_ownerand_group - This script changesthe owner to vincent and group owner to staff for all files and directories in working directory.
+
 
 
 
