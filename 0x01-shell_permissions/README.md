@@ -12,4 +12,6 @@
 
 6-multiple_permissions: Add execute permission to owner and group owner and read permission toother users.
 
+7-everybody: Script to add execution permission to the owner, group owner and other users.
+
 
