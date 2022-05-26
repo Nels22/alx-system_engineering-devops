@@ -8,4 +8,8 @@
 
 4-empty : Script that creates an empty file called hello.
 
-5-execute : Add execute permissions to the owner of the file hello.
+5-execute : Add execute permissions to the owner of the file hello
+
+6-multiple_permissions: Add execute permission to owner and group owner and read permission toother users.
+
+
