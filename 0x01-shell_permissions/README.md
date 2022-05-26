@@ -24,6 +24,8 @@
 
 12-directory_permissions : Script creates a directory called my_dir with permissions 751
 
+13-change_group : This script changes the group owner of the file hello to school
+
 
 
 
