@@ -14,4 +14,4 @@
 
 7-everybody: Script to add execution permission to the owner, group owner and other users.
 
-
+8-James_bond : Script for no permissions for owner and group and all permissions for other users.
