@@ -1,2 +1,2 @@
 #!/bin/bash
-id
+getent group | grep daygeek | awk -F: '{print $1}'
