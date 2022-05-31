@@ -34,4 +34,6 @@ A description of Scripts from the 0x03-shell_variables_expansion project:
 
 102-odd : This script prints every other line from the input, starting with the first line.
 
+103-water_and_stir : This script adds two numbers stored in the environment variables WATER and STIR and prints the result. WATER is in base water; STIR is in base stir.The result is in base bestchol.
+
 
