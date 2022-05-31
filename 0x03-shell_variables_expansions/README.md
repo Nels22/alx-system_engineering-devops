@@ -12,4 +12,6 @@ A description of Scripts from the 0x03-shell_variables_expansion project:
 
 5-local_variables : Lists all local variables and environment variables, and functions.
 
+6-create_local_variable : It creates a new local variable; BEST with the value; School
+
 
