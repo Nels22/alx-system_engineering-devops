@@ -25,3 +25,7 @@ A description of Scripts from the 0x03-shell_variables_expansion project:
 11-binary_to_decimal : It converts a number from base 2 to base 10.The number in base 2 is stored in the environment variable BINARY
 
 12-combinations : It prints all possible combinations of two letters, except oo.
+
+13-print_float : It prints a number with two decimal places, followed by a new line. The number is stored in the environment variable NUM.
+
+
