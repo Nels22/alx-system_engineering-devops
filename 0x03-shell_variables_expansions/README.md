@@ -4,4 +4,6 @@ A description of Scripts from the 0x03-shell_variables_expansion project:
 
 1-hello_you : It prints hello user, where user is the current Linux user.
 
+2-path : Adds /action to the PATH. /action is the last directory the shell looks into when looking for a program.
+
 
