@@ -16,4 +16,6 @@ A description of Scripts from the 0x03-shell_variables_expansion project:
 
 7-create_global_variable : It creates a new global variable; BEST with the value; School. 
 
+8-true_knowledge : It prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+
 
