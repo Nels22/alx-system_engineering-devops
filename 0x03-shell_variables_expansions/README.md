@@ -10,4 +10,6 @@ A description of Scripts from the 0x03-shell_variables_expansion project:
 
 4-global_variables : Lists environment variables.
 
+5-local_variables : Lists all local variables and environment variables, and functions.
+
 
