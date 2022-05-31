@@ -46,3 +46,5 @@ This is a description of what these scripts do;
 21-reverse : Reverses its input.
 
 22-users_and_homes : displays all users and their home directories, sorted by users (based on the the /etc/passwd file)
+
+100-empty_casks : This command that finds all empty files and directories in the current directory and all sub-directories.
