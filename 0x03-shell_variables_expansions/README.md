@@ -8,4 +8,6 @@ A description of Scripts from the 0x03-shell_variables_expansion project:
 
 3-paths : It counts the number of directories in the PATH.
 
+4-global_variables : Lists environment variables.
+
 
