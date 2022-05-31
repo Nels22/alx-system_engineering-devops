@@ -31,3 +31,7 @@ A description of Scripts from the 0x03-shell_variables_expansion project:
 100-decimal_to_hexadecimal : This script converts a number from base 10 to base 16.The number in base 10 is stored in the environment variable DECIMAL.
 
 101-rot13 : This script encodes and decodes text using the rot13 encryption. It assumes ASCII.
+
+102-odd : This script prints every other line from the input, starting with the first line.
+
+
