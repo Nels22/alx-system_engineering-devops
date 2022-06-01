@@ -1,6 +1,6 @@
 THIS IS A DESCRIPTION OF THE FILES IN THE ALX S/E 0X00-SHELL_BASICS PROJECT.
 
-Here is a Description of what each file does:
+Here is a brief of what each of the files does:
 
 - 0-current_working_directory : displays absolute path name of the current working directory
 - 1-listit  : displays the contents of your current directory
