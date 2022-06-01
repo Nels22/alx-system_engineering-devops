@@ -1,4 +1,6 @@
-This Shell Basics Project Contains the folowing files. Here is a Description of what each file seeks to output:
+THIS IS A DESCRIPTION OF THE FILES IN THE ALX S/E 0X00-SHELL_BASICS PROJECT.
+
+Here is a Description of what each file does:
 
 - 0-current_working_directory : displays absolute path name of the current working directory
 - 1-listit  : displays the contents of your current directory
@@ -13,12 +15,8 @@ This Shell Basics Project Contains the folowing files. Here is a Description of 
 - 12-file_type : Prints the type of file
 - 13-symbolic_link : Creates symbolic link for a file.
 - 14-copy_html : Copies HTML files
-- 100-lets_move - moves all files to the directory /tmp/u
-
-101-clean_emacs - deletes all emacs files
-
-102-tree - Creates a directory tree
-
-103-commas -lists all files and directories of current directory
-
-school.mgc : generate magicfile, school.mgc ("use file -C -m school.mgc" to compile before [git add])
+- 100-lets_move : moves all files to the directory /tmp/u
+- 101-clean_emacs : deletes all emacs files
+- 102-tree : Creates a directory tree
+- 103-commas : lists all files and directories of current directory
+- school.mgc : generate magicfile, school.mgc; used file -C -m school.mgc" to compile before [git add]
